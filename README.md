@@ -1,4 +1,7 @@
 # springBatchWeb
+#### 运行环境
+ - intelliJ，配置本地Tomcat
+ - Tomcat：8.5.39
 #### 运行方式
  - 添加jar包
  - 配置tomcat：localhost：8080
@@ -8,4 +11,4 @@
  ![index](posts/index.png)
 #### 结果页面
  - 展示spring batch运行结果
- ![report](img/report.png)
+ ![report](posts/report.png)
