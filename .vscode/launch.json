@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "cn.edu.nju.demos.pipefilter.App",
+            "projectName": "SpringBatchDemo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "njuics.demos.pipefilter.App",
+            "projectName": "SpringBatchDemo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "cn.edu.nju.sa2017.pipefilter.App",
+            "projectName": "SpringBatchDemo"
+        }
+    ]
+}
